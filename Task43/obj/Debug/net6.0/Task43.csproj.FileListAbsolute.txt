@@ -1,0 +1,15 @@
+/home/redsorcerer/Desktop/Homework_6/Task43/obj/Debug/net6.0/Task43.csproj.AssemblyReference.cache
+/home/redsorcerer/Desktop/Homework_6/Task43/obj/Debug/net6.0/Task43.GeneratedMSBuildEditorConfig.editorconfig
+/home/redsorcerer/Desktop/Homework_6/Task43/obj/Debug/net6.0/Task43.AssemblyInfoInputs.cache
+/home/redsorcerer/Desktop/Homework_6/Task43/obj/Debug/net6.0/Task43.AssemblyInfo.cs
+/home/redsorcerer/Desktop/Homework_6/Task43/obj/Debug/net6.0/Task43.csproj.CoreCompileInputs.cache
+/home/redsorcerer/Desktop/Homework_6/Task43/bin/Debug/net6.0/Task43
+/home/redsorcerer/Desktop/Homework_6/Task43/bin/Debug/net6.0/Task43.deps.json
+/home/redsorcerer/Desktop/Homework_6/Task43/bin/Debug/net6.0/Task43.runtimeconfig.json
+/home/redsorcerer/Desktop/Homework_6/Task43/bin/Debug/net6.0/Task43.dll
+/home/redsorcerer/Desktop/Homework_6/Task43/bin/Debug/net6.0/ref/Task43.dll
+/home/redsorcerer/Desktop/Homework_6/Task43/bin/Debug/net6.0/Task43.pdb
+/home/redsorcerer/Desktop/Homework_6/Task43/obj/Debug/net6.0/Task43.dll
+/home/redsorcerer/Desktop/Homework_6/Task43/obj/Debug/net6.0/ref/Task43.dll
+/home/redsorcerer/Desktop/Homework_6/Task43/obj/Debug/net6.0/Task43.pdb
+/home/redsorcerer/Desktop/Homework_6/Task43/obj/Debug/net6.0/Task43.genruntimeconfig.cache
